@@ -1,0 +1,19 @@
+body {
+  background-color: pink;
+}
+p {
+  color: green;
+}
+p:hover {
+  background-color: lavender;
+}
+#para2:hover {
+  background-color: red;
+}
+.link-item:active {
+  color: purple;
+}
+.link-item:hover {
+  background-color: whitesmoke;
+  color: red;
+}
